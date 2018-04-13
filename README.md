@@ -1,2 +1,2 @@
 # aPToP
-Coq implementation of aPToP Paper - http://www.cs.toronto.edu/~hehner/aPToP/
+Coq implementation of aPToP Specification - http://www.cs.toronto.edu/~hehner/aPToP/
